@@ -1,4 +1,4 @@
-## [titel van jullie game]
+## [Pork by Daylight]
 Project team:Anne, Luc, Patryk, Ties, Sophie
 
 Platform:
@@ -17,9 +17,9 @@ Desktop
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
-| Product  | Link |
+| Product  | https://github.com/PAP0/Project-Mythe.git |
 | ------ |  ------ |
-| Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]
+| Online Product backlog & Sprint backlog + DoD (Trello)    | [https://trello.com/b/UtkiDDBG/mythe]
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
 | Logboek (pdf)                                             | [Logboek]
 | Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
