@@ -22,7 +22,7 @@ Desktop
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [https://trello.com/b/UtkiDDBG/mythe]
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
 | Logboek (pdf)                                             | [Logboek]
-| Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
+| Opnames sprint retrospectives (Teams opnames)             | [https://teams.microsoft.com/_#/school/files/Team%2006?threadId=19%3A654a27eb37c64116947c286ea6b27d17%40thread.tacv2&ctx=channel&context=Sprint%2520Folder&rootfolder=%252Fteams%252FMytheGDGA2021-Team6%252FGedeelde%2520documenten%252FTeam%25206%252FSprint%2520Folder]
 | Opnames standups (Teams opnames)                          | [Folder op teams]
 |<img width=500/>|<img width=300/>|
    
