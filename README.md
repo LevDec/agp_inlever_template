@@ -1,8 +1,8 @@
 ## [titel van jullie game]
-Project team:[jullie namen]
+Project team:Anne, Luc, Patryk, Ties, Sophie
 
 Platform:
-[jullie platfom]
+Desktop
 
 ### Korte omschrijving van de game
 ...
