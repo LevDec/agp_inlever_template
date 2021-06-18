@@ -39,12 +39,12 @@ De ondertoon is van dit spel is enigszins ontspannen en warm, maar er ligt wel a
 | Asset planning (pdf)                  | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
-   [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
+   [Backlog]: <https://trello.com/b/UtkiDDBG/mythe>
+   [Logboek]: <https://github.com/LevDec/agp_inlever_template/blob/master/producten/logboek.pdf>
+   [GameDesignDoc]: <https://github.com/LevDec/agp_inlever_template/blob/master/producten/Game%20Design%20Document.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
-   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
+   [ReviewVerslagen]: <https://github.com/LevDec/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
    [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
-   [AssetPlanning]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
+   [AssetPlanning]: <https://github.com/LevDec/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
    
