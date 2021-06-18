@@ -25,7 +25,7 @@ De ondertoon is van dit spel is enigszins ontspannen en warm, maar er ligt wel a
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [https://trello.com/b/UtkiDDBG/mythe]
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
 | Logboek (pdf)                                             | [Logboek]
-| Opnames sprint retrospectives (Teams opnames)             | [https://teams.microsoft.com/_#/school/files/Team%2006?threadId=19%3A654a27eb37c64116947c286ea6b27d17%40thread.tacv2&ctx=channel&context=Sprint%2520Folder&rootfolder=%252Fteams%252FMytheGDGA2021-Team6%252FGedeelde%2520documenten%252FTeam%25206%252FSprint%2520Folder]
+| Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
 | Opnames standups (Teams opnames)                          | [Folder op teams]
 |<img width=500/>|<img width=300/>|
    
@@ -45,6 +45,6 @@ De ondertoon is van dit spel is enigszins ontspannen en warm, maar er ligt wel a
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/LevDec/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
-   [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
+   [Folder op teams]: <https://mediacollegeamsterdam.sharepoint.com/teams/MytheGDGA2021-Team6/Gedeelde%20documenten/Team%206/Mythe%20Documentatie>
    [AssetPlanning]: <https://github.com/LevDec/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
    
