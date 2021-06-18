@@ -2,7 +2,7 @@
 Project team:Anne, Luc, Patryk, Ties, Sophie
 
 Platform:
-Desktop
+Desktop (Unity Engine)
 
 ### Korte omschrijving van de game
 ...
