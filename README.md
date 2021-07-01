@@ -41,7 +41,7 @@ De ondertoon is van dit spel is enigszins ontspannen en warm, maar er ligt wel a
 
    [Backlog]: <https://trello.com/b/UtkiDDBG/mythe>
    [Logboek]: <https://github.com/LevDec/agp_inlever_template/blob/master/producten/logboek.pdf>
-   [GameDesignDoc]: <https://github.com/LevDec/agp_inlever_template/blob/master/producten/logboek.pdf>
+   [GameDesignDoc]: <https://github.com/LevDec/agp_inlever_template/blob/master/producten/Game%20Concept%20Document.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/LevDec/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
